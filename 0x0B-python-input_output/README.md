@@ -5,22 +5,60 @@ In this project, I practiced file handling in Python. I used the builtin `with`,
 
 ## **Function Prototypes**
 
-Prototypes for functions written in this project:
+<p>Prototypes for functions written in this project:</p>
+<table border='1'>
+  <tr>
+    <th>File </th>
+    <th> Prototype</th>
+  </tr>
+  <tr>
+    <td>0-read_file.py</td>
+    <td>def read_file(filename=""):</td>
+  </tr>
+  <tr>
+    <td>1-number_of_lines.py</td>
+    <td>def number_of_lines(filename=""):</td>
+  <tr>
+    <td>2-read_lines.py</td>
+    <td>def read_lines(filename="", nb_lines=0):</td>
+  </tr>
+  <tr>
+    <td>3-write_file.py</td>
+    <td>def write_file(filename="", text=""):</td>
+  </tr>
+   <tr>
+    <td>2-append_write.py</td>
+    <td>def append_write(filename="", text=""):</td>
+  </tr>
+  <tr>
+    <td>3-to_json_string.py</td>
+    <td>def to_json_string(my_obj):</td>
+  <tr>
+    <td>4-from_json_string.py</td>
+    <td>def from_json_string(my_str):</td>
+  </tr>
+  <tr>
+    <td>5-save_to_json_file.py</td>
+    <td>def save_to_json_file(my_obj, filename):</td>
+  </tr>
 
-| File | #Prototype |
-| ---- | ---------- ||
-| `0-read_file.py`           | `def read_file(filename=""):`                   |
-| `1-number_of_lines.py`     | `def number_of_lines(filename=""):`             |
-| `2-read_lines.py`          | `def read_lines(filename="", nb_lines=0):`      |
-| `3-write_file.py`          | `def write_file(filename="", text=""):`         |
-| `2-append_write.py`        | `def append_write(filename="", text=""):`       |
-| `3-to_json_string.py`      | `def to_json_string(my_obj):`                   |
-| `4-from_json_string.py`    | `def from_json_string(my_str):`                 |
-| `5-save_to_json_file.py`   | `def save_to_json_file(my_obj, filename):`      |
-| `6-load_from_json_file.py` | `def load_from_json_file(filename):`            |
-| `8-class_to_json.py`       | `def class_to_json(obj):`                       |
-| `12-pascal_triangle.py`    | `def pascal_triangle(n):`                       |
-| `100-append_after.py`      | `def append_after(filename="",search_string=""` |
+  <tr>
+    <td>6-load_from_json_file.py</td>
+    <td>def load_from_json_file(filename):</td>
+  </tr>
+  <tr>
+    <td>8-class_to_json.py</td>
+    <td>def class_to_json(obj):</td>
+  </tr>
+  <tr>
+    <td>d12-pascal_triangle.py</td>
+    <td>def pascal_triangle(n):</td>
+  </tr>
+  <tr>
+    <td>100-append_after.py</td>
+    <td>def append_after(filename="",search_string=""</td>
+  </tr>
+</table>
 
 ## __task w ill solve in this project include the following tasks__
 
