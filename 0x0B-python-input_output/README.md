@@ -1,7 +1,16 @@
 # _**0x0B. Python - Input/Output_**
 _ _ _
 In this project, I practiced file handling in Python. I used the builtin `with`, `open`, and `read` functions with the `json` module to read and write files and serialize and deserialize objects with JSON.
-
+<ul>
+<p><strong> The Resource i use while i was doing the project.</strong><p>
+<li> <a herf='https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files'>Reading and Writing Files</a></li>
+<li> <a herf='https://docs.python.org/3/tutorial/errors.html#predefined-clean-up-actions'>Predefined Clean-up Actions</a></li>
+<li> <a herf='chrome-extension://ieepebpjnkhaiioojkepfniodjmjjihl/data/pdf.js/web/viewer.html?file=https%3A%2F%2Fhisto.ucsf.edu%2FBMS270%2Fdiveintopython3-r802.pdf'>Dive Into Python 3: Chapter 11. Files</a></li>
+<li> <a herf='https://docs.python.org/3/library/json.html'>JSON encoder and decoder </a></li>
+<li> <a herf='https://www.youtube.com/watch?v=EukxMIsNeqU'>Learn to Program 8 : Reading / Writing Files </a></li>
+<li> <a herf='https://automatetheboringstuff.com/'>Automate the Boring Stuff with Python </a></li>
+<li> <a herf='https://techvidvan.com/tutorials/python-file-read-write/'>All about py-file I/O </a></li>
+</ul>
 
 ## **Function Prototypes**
 
